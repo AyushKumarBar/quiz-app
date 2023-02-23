@@ -61,7 +61,7 @@
 
 
 .score-board {
-  position: relative;
+  position: absolute;
   height: 700px;
 }
 
