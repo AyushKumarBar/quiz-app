@@ -1,6 +1,6 @@
 {
   "name": "quiz-app",
-  "homepage": "https://ayushkumarbar.github.io/quiz-app/",
+  
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -17,8 +17,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    
   },
   "eslintConfig": {
     "extends": [
