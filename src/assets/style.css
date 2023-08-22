@@ -62,12 +62,13 @@
 
 
 .score-board {
-  position: absolute;
+  position: relative;
   height: 700px;
+  margin: auto;
 }
 
 .score {
-  position: absolute;
+  position: relative;
   width: 1024px;
   font-size: 1.2em;
   top: 250px;
@@ -75,7 +76,7 @@
 }
 
 .playBtn {
-  position: absolute;
+  position: relative;
   font-size: 1.4em;
   padding: 10px;
   top: 350px;
