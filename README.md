@@ -71,10 +71,6 @@
   <li>Submit a pull request describing your changes.</li>
 </ol>
 
-<h2 id="license">License</h2>
-
-<p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
-
 <hr>
 
 <p>Enjoy building your own React JS quiz website with a refreshing quiz experience for users! If you have any questions or need assistance, feel free to reach out to us or refer to the documentation provided in this README. Happy coding!</p>
